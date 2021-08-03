@@ -1,0 +1,72 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Dogtas - Centum E-Shot - FA.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 600 px x 1038.3082 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Acumin Variable Concept Default (OTF)
+Acumin Variable Concept ExtraCondensed Medium (OTF)
+Montserrat Regular (OTF)
+Roboto Thin Italic (TrueType)
+Roboto Thin (TrueType)
+Roboto Light (TrueType)
+Roboto Bold (TrueType)
+Roboto (TrueType)
+Saudagar (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+D:\GENKEY\DOGTAS\CENTUM\RIVER BANK RENDERS\02.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 6075K, 1920 by 1080 pixels
+Dimensions: 961.901 by 541.069 points 
+Resolution: 143.715 by 143.715 pixels per inch
+
+
+D:\GENKEY\DOGTAS\CENTUM\RIVER BANK RENDERS\01.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 6075K, 1920 by 1080 pixels
+Dimensions: 549.549 by 309.121 points 
+Resolution: 251.552 by 251.552 pixels per inch
+
+
+D:\GENKEY\DOGTAS\CENTUM\RIVER BANK RENDERS\02 Dining.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 6075K, 1920 by 1080 pixels
+Dimensions: 555.429 by 312.429 points 
+Resolution: 248.889 by 248.889 pixels per inch
